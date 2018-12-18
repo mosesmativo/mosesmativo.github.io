@@ -23,7 +23,13 @@
 @import url("css/common.css");
 
 
-
+.awward a{
+    color: #00A79D; 
+    font-weight: bold;
+}
+.awward h2{
+    font-size: 22px;
+}
 /* ===================================
     1. Global CSS
 ====================================== */
@@ -31,6 +37,7 @@
 body.wait-preloader {
     overflow: hidden;
 }
+
 
 body {
     font-family: 'Poppins', sans-serif;
