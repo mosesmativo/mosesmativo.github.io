@@ -23,11 +23,12 @@
 @import url("css/common.css");
 
 
-.awward p a{
-    color: #00A79D; 
+.awwards p a{
+    color: #00A79D;
+    font-size:14px; 
     font-weight: bold;
 }
-.awward h2{
+.awwards h2{
     font-size: 22px;
 }
 /* ===================================
