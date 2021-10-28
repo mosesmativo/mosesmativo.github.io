@@ -991,7 +991,7 @@ li.coco-gallery-item.b-w img {
 ====================================== */
 
 .page-split-right {
-    width: calc(50% - 100px);
+    width: calc(35% - 0px);
     height: 100%;
     display: block;
     position: fixed;
